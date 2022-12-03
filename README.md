@@ -1,0 +1,15 @@
+# adventofcode2022
+Repo for my [Advent of Code](https://adventofcode.com/) 2022 activity
+
+## Navigation
+Jump directly to the jupyter notebook for each problem here:
+
+- Day 1: [Calorie Counting](https://github.com/artdavis/adventofcode2022/blob/main/day01/Calorie_Counting.ipynb)
+- Day 2: [Rock Paper Scissors](https://github.com/artdavis/adventofcode2022/blob/main/day02/Rock_Paper_Scissors.ipynb)
+- Day 3: [Rucksack Reorganization](https://github.com/artdavis/adventofcode2022/blob/main/day03/Rucksack_Reorganization.ipynb)
+
+Each folder contains a `README.md` that was rendered to Markdown from the
+jupyter notebook using the command:
+```
+jupyter nbconvert --output README.md --to markdown <notebook.ipynb>
+```
