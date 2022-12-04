@@ -45,10 +45,6 @@ with open('input.txt', 'r') as fid:
 #display(Markdown("One range is fully contained in the other **{}** times.".format(count)))
 ```
 
-
-One range is fully contained in the other **450** times.
-
-
 ## Part Two
 
 In **how many assignment pairs do the ranges overlap?**
@@ -80,10 +76,6 @@ with open('input.txt', 'r') as fid:
 ```python
 #display(Markdown("There's at least one overlap **{}** times.".format(count2)))
 ```
-
-
-There's at least one overlap **837** times.
-
 
 
 ```python
