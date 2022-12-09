@@ -112,5 +112,5 @@ score = lscore * rscore * dscore * uscore
 
 
 ```python
-#display(Markdown("The highest possivle scenic score is **{}**.".format(score.max())))
+#display(Markdown("The highest possible scenic score is **{}**.".format(score.max())))
 ```
